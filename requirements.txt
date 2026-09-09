@@ -1,0 +1,5 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+# Optional (ligand prep / SMILES handling):
+# rdkit>=2023.9.1

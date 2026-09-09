@@ -1,0 +1,9 @@
+resname,resid,n_contacts,min_distance_A
+SER,45,6,0.316
+HIS,48,6,0.768
+TRP,110,6,1.288
+PHE,95,6,1.356
+ASP,86,6,1.418
+GLN,104,6,1.575
+TYR,92,6,1.926
+LEU,101,5,2.283
